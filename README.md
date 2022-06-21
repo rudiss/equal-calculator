@@ -20,6 +20,9 @@ yarn test
 Will run the test suite and generate a report in `coverage/lcov.info`.
 Open ```coverage/index.html``` to see the report.
 
-Also this project was create with typescript.
+Also this project was create with typescript, so you can use the following command to run the type checker:
+```bash
+yarn tsc
+```
 
 **This version number: 5b8d0fd276b6d288905ed2f63a934e057e8feca2**
